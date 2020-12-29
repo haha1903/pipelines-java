@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/haha1903/haha1903/_apis/build/status/haha1903.pipelines-java?branchName=master)](https://dev.azure.com/haha1903/haha1903/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
